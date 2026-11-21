@@ -1,5 +1,5 @@
 <h1>Privacy Policy</h1>
-<p>Last updated: July 31, 2025</p>
+<p>Last updated: November 21, 2026</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</p>
 <h2>Interpretation and Definitions</h2>
@@ -103,6 +103,8 @@
 <p>Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.</p>
 <p>Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.</p>
 <p>The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.</p>
+<h4>Advertising analytics (Meta)</h4>
+<p>If you give your consent in the app, we share limited usage data with Meta Platforms to measure and improve the effectiveness of our advertising. This includes app installs and launches, purchases (the type of purchase, such as a route, bundle or gift, and the amount paid), basic device information (such as device model, operating system version, language and IP address) and, where your device allows it, the advertising identifier. We do not send your name, email address or routes to Meta. Meta processes this data in accordance with <a href="https://www.facebook.com/privacy/policy/" target="_blank" rel="noopener noreferrer">its own privacy policy</a>. You can withdraw your consent at any time in the app under Settings → Data analytics, after which we stop sharing new data. If you decline, no such data is sent.</p>
 <h3>Delete Your Personal Data</h3>
 <p>You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.</p>
 <p>Our Service may give You the ability to delete certain information about You from within the Service.</p>
